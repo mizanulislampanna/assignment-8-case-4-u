@@ -6,7 +6,7 @@ import "./Shop.css";
 const Shop = () => {
   const [products, setProducts] = useState([]);
   const [cart, setCart] = useState([]);
-  //   ;
+  //   const [random, setRandom] = useState([]);
 
   useEffect(() => {
     fetch("products.json")
