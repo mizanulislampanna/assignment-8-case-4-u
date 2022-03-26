@@ -1,0 +1,11 @@
+.selected-item {
+  display: flex;
+  align-items: center;
+}
+.image {
+  margin-right: 10px;
+}
+.image img {
+  width: 50px;
+  border-radius: 50%;
+}

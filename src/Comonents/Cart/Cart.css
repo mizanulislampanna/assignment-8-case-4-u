@@ -1,0 +1,9 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 20px;
+}
+.selected-items {
+  font-size: 30px;
+  font-weight: bold;
+}
