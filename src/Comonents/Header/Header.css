@@ -1,9 +1,12 @@
 .heading {
-  color: purple;
+  color: black;
   font-size: 50px;
-  font-weight: 400;
   margin-top: 0%;
   margin-bottom: 0%;
+}
+.four {
+  font-size: 60px;
+  color: rgb(255, 197, 5);
 }
 .heading-two {
   font-size: 30px;

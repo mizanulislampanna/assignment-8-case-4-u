@@ -5,7 +5,7 @@ const Product = (props) => {
   const { img, name } = props.product;
   console.log(props);
   return (
-    <div className="produtc">
+    <div className="product">
       <img src={img} alt="" />
     </div>
   );
