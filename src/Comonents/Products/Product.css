@@ -26,9 +26,13 @@
   line-height: 25px;
   margin-top: 7px;
 }
+.price {
+  font-weight: bold;
+}
 .button-cart {
   margin-left: 5%;
   width: 90%;
+  font-weight: 600;
   background-color: rgb(255, 197, 5);
   border-radius: 8px;
   border: none;
